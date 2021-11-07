@@ -1,5 +1,4 @@
 ### Hi there 👋
-&layout=compact
 I am a Master student in Physics of Data, in my Github you can find some projects developed during my studies ⚡
 
 ### 🕵🏻‍♂️ Contact info
