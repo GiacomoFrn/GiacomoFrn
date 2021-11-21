@@ -6,7 +6,6 @@ I am a Master student in Physics of Data, in my Github you can find some project
 * [![inkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giacomo-franceschetto/)
 
 ### 🚀 Stats
-![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=GiacomoFrn&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=GiacomoFrn&show_icons=true&theme=tokyonight&line_height=20)
 
