@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Master student in Physics of Data, in my Github you can find some projects developed during my studies ⚡
+I am a PhD student in quantum information theory, here you can find some stuff on which I'm currently working/ I've worked in the past ⚡
 
 ### 🕵🏻‍♂️ Contact info
 * E-mail: franceschettogcm@gmail.com
